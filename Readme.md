@@ -1,5 +1,6 @@
 # CryptoCurrency Phishing Attack
 
+Notion Link: https://www.notion.so/janberknotes/CryptoCurrency-Phishing-Attack-5824e8b0198144c19952cfbe3a51c384
 Merhaba, ben Janberk. Böyle girişleri sevmem ama başka bir şey bulamadım. Bugün Türkçe yazmaya karar verdim. İlginç bir konuya bakacağız bugün aslında. Bir arkadaşım geçen gün bana yazdı ve dedi ki "yahu ben LightShot'ta bir şey buldum". LightShot aracını bilmeyen var ise önce şöyle bir açıklayalım:
 
 > SkillBrains'in anladığım kadarıyla 2010 tarihinde yayınlamış olduğu bir ekran görüntüsü alma ve paylaşma sistemi diyebiliriz. Sistem diyorum çünkü sadece program ile ekran görüntüsü almıyorsunuz, ayrıca bunu [prnt.sc](http://prnt.sc) sitesine yüklüyor ve "**herkese açık**" olan bu ekran görüntüsü bağlantısını arkadaşlarınızla paylaşıyorsunuz.
