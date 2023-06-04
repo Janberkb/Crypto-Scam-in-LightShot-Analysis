@@ -1,4 +1,4 @@
-# CryptoCurrency Phishing Attack
+# Crypto Scam in LightShot Analysis
 
 Notion Link: https://www.notion.so/janberknotes/CryptoCurrency-Phishing-Attack-5824e8b0198144c19952cfbe3a51c384
 
